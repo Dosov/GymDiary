@@ -25,11 +25,20 @@ GymDiary -программа для тренировок в домашних у�
 
 ![](https://github.com/Dosov/GymDiary/blob/master/5.PNG)
 ![](https://github.com/Dosov/GymDiary/blob/master/6.PNG)
+
+
 Список упражнений который хотели выбрать. 
+
 ![](https://github.com/Dosov/GymDiary/blob/master/1.PNG)
+
+
 Выполняйте упражнение на время по подходам.
+
 ![](https://github.com/Dosov/GymDiary/blob/master/3.PNG)
+
+
 Получаем статистику занятий каждый день.
+
 ![](https://github.com/Dosov/GymDiary/blob/master/4.PNG)
 
 
