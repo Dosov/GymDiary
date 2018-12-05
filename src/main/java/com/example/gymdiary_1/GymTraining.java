@@ -1,5 +1,5 @@
 package com.example.gymdiary_1;
-
+//краткое описание упражнения делается через базу данных, а не через фото
 import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.SystemClock;
