@@ -8,8 +8,8 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.ScrollView;
 
-public class GymDescription extends AppCompatActivity {
-private ImageButton revert2;
+public class GymDescription extends AppCompatActivity { 
+private ImageButton revert2; // не правильное название переменных
 private ImageView imageView;
 
     @Override
