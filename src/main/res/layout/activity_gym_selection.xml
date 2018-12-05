@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GymSelection">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="508dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:ignore="MissingConstraints">
+
+        <ImageButton
+            android:id="@+id/revert1"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_red_dark"
+            app:srcCompat="@android:drawable/ic_menu_revert" />
+
+        <Button
+            android:id="@+id/berpi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="1dp"
+            android:background="@android:color/holo_orange_light"
+            android:text="Берпи" />
+
+        <Button
+            android:id="@+id/run"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="1dp"
+            android:background="@color/colorAccent"
+            android:text="Прыжки на месте с выско поднятыми колениями " />
+
+        <Button
+            android:id="@+id/exercisebike"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="1dp"
+            android:background="@android:color/holo_orange_light"
+            android:text="Упражнение Велосипед" />
+
+        <Button
+            android:id="@+id/strap"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="1dp"
+            android:background="@color/colorAccent"
+            android:text="Планка" />
+
+        <Button
+            android:id="@+id/jumpingrope"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="1dp"
+            android:background="@android:color/holo_orange_light"
+            android:text="Прыжки со скокалкой " />
+
+        <Button
+            android:id="@+id/rockfish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="1dp"
+            android:background="@color/colorAccent"
+            android:text="Скалалаз" />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="1dp"
+            android:background="@android:color/holo_orange_light"
+            android:text="Велосипед" />
+
+        <Button
+            android:id="@+id/pushup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="1dp"
+            android:background="@color/colorAccent"
+            android:text="Отжимание от пола" />
+
+        <Button
+                android:id="@+id/skakalka"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="1dp"
+            android:background="@android:color/holo_orange_light"
+            android:text="Скакалка" />
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

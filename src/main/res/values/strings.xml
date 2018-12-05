@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GymDiary_1</string>
+
+    <string-array name="data">\
+        <item>Выберите дату:</item>
+     <item>14февраля2018г</item>
+    <item>15февраля2018г</item>
+    <item>16февраля2018г</item>
+    <item>17февраля2018г</item>
+    <item>18февраля2018г</item>
+    <item>19февраля2018г</item>
+    <item>20февраля2018г</item>
+    <item>21февраля2018г</item>
+    <item>22февраля2018г</item>
+    <item>23февраля2018г</item>
+    <item>24февраля2018г</item>
+    <item>25февраля2018г</item>
+    <item>26февраля2018г</item>
+    <item>27февраля2018г</item>
+    <item>28февраля2018г</item>
+    </string-array>
+</resources>
