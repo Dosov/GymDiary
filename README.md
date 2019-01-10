@@ -19,4 +19,4 @@
 
 [Мокапы](https://github.com/Dosov/GymDiary)
 
-[Использование патернов](https://github.com/Dosov/GymDiary/blob/master/Documents/patern%20using/Proxy.md)
+
